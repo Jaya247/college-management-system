@@ -30,7 +30,7 @@ A web-based **College Management System** developed to simplify and automate the
 ### Backend
 - Python
 - Django
-
+- 
 ### Database
 - SQLite (Development)
 - MySQL (Optional)
