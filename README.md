@@ -20,7 +20,6 @@ A web-based **College Management System** developed to simplify and automate the
 ---
 
 ## 🛠️ Tech Stack
-
 ### Frontend
 - HTML5
 - CSS3
