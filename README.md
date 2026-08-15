@@ -10,7 +10,7 @@ A web-based **College Management System** developed to simplify and automate the
 - 👩‍🏫 Faculty Management 
 - 📚 Course Management
 - 📝 Attendance Management
-- 📊 Student Performance & Marks
+- 📊 Student Performance & Marks 
 - 🔐 Secure Login Authentication
 - 👤 Role-Based Access (Admin, Faculty, Student) 
 - 📅 Timetable Management
