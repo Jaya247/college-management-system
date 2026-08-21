@@ -13,7 +13,7 @@ A web-based **College Management System** developed to simplify and automate the
 - 📊 Student Performance & Marks 
 - 🔐 Secure Login Authentication
 - 👤 Role-Based Access (Admin, Faculty, Student) 
-- 📅 Timetable Management
+- 📅 Timetable Management 
 - 📢 Notice Board
 - 📄 Student Profile Management
 
