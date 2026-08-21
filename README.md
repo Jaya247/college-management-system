@@ -6,7 +6,7 @@ A web-based **College Management System** developed to simplify and automate the
 
 ## 🚀 Features
 
-- 👨‍🎓 Student Registration & Management
+- 👨‍🎓 Student Registration & Management 
 - 👩‍🏫 Faculty Management 
 - 📚 Course Management
 - 📝 Attendance Management
