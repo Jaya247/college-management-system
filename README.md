@@ -8,7 +8,7 @@ A web-based **College Management System** developed to simplify and automate the
 
 - 👨‍🎓 Student Registration & Management                                               
 - 👩‍🏫 Faculty Management 
-- 📚 Course Management
+- 📚 Course Management                      
 - 📝 Attendance Management
 - 📊 Student Performance & Marks  
 - 🔐 Secure Login Authentication                
