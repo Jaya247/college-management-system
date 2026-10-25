@@ -3,7 +3,7 @@
 A web-based **College Management System** developed to simplify and automate the management of student, faculty, courses, attendance, and administrative tasks. This system provides a centralized platform for managing academic records efficiently.
 
 ---                                      
-
+         
 ## 🚀 Features                     
 
 - 👨‍🎓 Student Registration & Management                                               
